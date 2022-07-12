@@ -1,0 +1,5 @@
+@import "~bootstrap/scss/functions";  //*匯入 functions
+@import "@/assets/stylesheets/helpers/_variables.scss";  //*匯入自訂義變數，剛剛自訂義變數的檔案
+@import "~bootstrap/scss/bootstrap"; //*將所有 bootstrap 載出來
+
+@import "@/assets/stylesheets/helpers/_base.scss";
